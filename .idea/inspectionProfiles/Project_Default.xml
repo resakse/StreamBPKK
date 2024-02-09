@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DjangoBrokenLineCommentInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DjangoCloseTagInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DjangoIncompatibleInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DjangoOrmInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DjangoRelationInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DjangoUnresolvedFilterInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DjangoUnresolvedLoadInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DjangoUnresolvedStaticReferenceInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DjangoUnresolvedTagInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DjangoUnresolvedTemplateReferenceInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DjangoUnresolvedUrlInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DjangoUrlArgumentsInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="DuplicatedBlockNamesInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="EndBlockNamesInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+    <inspection_tool class="ExtendsTagPositionInspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO" />
+  </profile>
+</component>

@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "streambpkk"
+version = "0.1.0"
+description = ""
+authors = ["resakse <resakse@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.0"
+streamlit = "^1.31.0"
+plotly-express = "^0.4.1"
+openpyxl = "^3.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
